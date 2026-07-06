@@ -2,7 +2,7 @@
 
 This repository contains the SQL scripts used to build and manage the core database tables for a medical clinic. It covers setting up table schemas, linking tables together, and updating live records.
 
-## Table Blueprints & Links
+## Table Functions Used
 
 The scripts create an interconnected system of tables that prevent data-entry mistakes using standard SQL constraints:
 * **Required Fields:** Uses `NOT NULL` so critical details like clinic or patient names cannot be left blank.
