@@ -26,3 +26,5 @@ The scripts create an interconnected system of tables that prevent data-entry mi
 ***
 
 ## Tools Used
+* **SQLite:** For database creation and query execution.
+* **DbVisualizer:** For writing scripts and auditing spreadsheet outputs.
