@@ -12,7 +12,7 @@ The scripts create an interconnected system of tables that prevent data-entry mi
 
 ***
 
-## Database Tasks Covered
+## Database Tasks Covered=
 
 ### 1. Building and Modifying Tables (`DDL`)
 * Writing `CREATE TABLE` scripts with specific data types (`INTEGER`, `TEXT`).
@@ -22,6 +22,7 @@ The scripts create an interconnected system of tables that prevent data-entry mi
 * Adding multiple rows of data at the same time using `INSERT INTO`.
 * Correcting specific rows safely using `UPDATE ... SET` combined with `WHERE` clauses.
 * Permanently removing incorrect or obsolete rows using `DELETE FROM`.
+<img width="599" height="99" alt="Screenshot 2026-07-09 at 1 24 56 PM" src="https://github.com/user-attachments/assets/1fb787db-7402-4883-8585-8a0ff0f2651b" />
 
 ***
 
